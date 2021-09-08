@@ -1,5 +1,4 @@
-# FCSE 2021
-# Software Quality and Testing
+# FCSE 2021: Software Quality and Testing
 
 ## Project: Functional and Performance Testing of a REST API
 
